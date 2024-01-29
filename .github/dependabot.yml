@@ -5,6 +5,7 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    target-branch: "3377ce0a9d77d9aa788830b17b1753b45657ee16"  
   - package-ecosystem: npm
     directory: "/javascript"
     schedule:
