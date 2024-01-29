@@ -1,9 +1,9 @@
-name: Greetings
+name: lol22222
 
 on: [pull_request, issues]
 
 jobs:
-  greeting:
+  lol22222:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/first-interaction@v1
